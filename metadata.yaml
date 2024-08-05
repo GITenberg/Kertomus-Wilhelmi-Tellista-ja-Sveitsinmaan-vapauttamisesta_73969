@@ -1,0 +1,45 @@
+_repo: Kertomus-Wilhelmi-Tellista-ja-Sveitsinmaan-vapauttamisesta_73969
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Räty, Antti
+    aliases:
+    - Räty, A.
+    - Raty, Antti
+    gutenberg_agent_id: '57292'
+    url: http://www.gutenberg.org/2009/agents/57292
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    - père, Alexandre Dumas
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+    - https://fr.wikipedia.org/wiki/Alexandre_Dumas
+description: ''
+gutenberg_issued: '2024-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73969'
+language: fi
+pgterms:marc905: 20240629223020dumas
+pgterms:marc906: '1849'
+pgterms:marc907: FI
+production_note: Jari Koivisto and Tapio Riikonen
+publication_note: '  $aHelsinki :$bSKS, $c1849.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tell, Wilhelm -- Fiction'
+- !lcsh 'French fiction -- Translations into Finnish'
+- !lcc 'PQ'
+- GITenberg
+title: Kertomus Wilhelmi Tellistä ja Sveitsinmaan vapauttamisesta
+url: http://www.gutenberg.org/ebooks/73969
